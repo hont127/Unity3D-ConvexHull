@@ -4,9 +4,9 @@ using UnityEngine;
 
 namespace Hont
 {
-    public class ConvexCullTest : MonoBehaviour
+    public class ConvexHullTest : MonoBehaviour
     {
-        public ConvexCull convexCull;
+        public ConvexHull convexCull;
 
 
         void Update()

@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Hont
 {
-    public class ConvexCull : MonoBehaviour
+    public class ConvexHull : MonoBehaviour
     {
         public Transform[] pointsArray;
         public float height = 4;

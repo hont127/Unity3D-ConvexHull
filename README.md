@@ -1,5 +1,6 @@
 # Unity3D-ConvexCull
 Easy Unity3d convexCull range detecter
+一个简单的unity凸包范围检测器，可以用作场景事件碰撞等
 
 ```C#
 if (convexCull.IsInRange(transform.position)) //do something..

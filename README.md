@@ -1,5 +1,5 @@
 # Unity3D-ConvexHull
-Easy Unity3d convexHull range detecter
+Easy Unity3d ConvexHull range detecter
 一个简单的unity凸包范围检测器，可以用作场景事件碰撞等
 
 ```C#

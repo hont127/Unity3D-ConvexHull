@@ -9,7 +9,6 @@ namespace Hont
     {
         public Transform[] pointsArray;
         public float height = 4;
-        GameObject mPlayer;
 
 
         public bool IsInRange(Vector3 comparePoint)
